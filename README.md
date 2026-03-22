@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://ngpcloud.in/logo-brand-blue-gradient.png" width="80" height="80" alt="NGP Cloud" />
+<img src="https://okqaywpkiqzfadpfuygi.supabase.co/storage/v1/object/public/logos/enhanced_ngpcloud_logo.png" width="80" height="80" alt="NGP Cloud" />
 
 <br />
 
