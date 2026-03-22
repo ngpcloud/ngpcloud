@@ -44,67 +44,6 @@
 
 <br/>
 
-## &nbsp;&nbsp;Services
-
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="180">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a2e&height=120&text=Minecraft&fontSize=16&fontColor=62b947&fontAlignY=42&desc=Hosting&descSize=13&descColor=7dd3fc&descAlignY=65" width="160" />
-<br/>
-<img src="https://img.shields.io/badge/%E2%82%B9199%2Fmo-00a8ff?style=flat-square&labelColor=0a0a0a" />
-</td>
-<td align="center" width="180">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a2e&height=120&text=Game%20Servers&fontSize=14&fontColor=ffffff&fontAlignY=42&desc=GTA%20V%20%7C%20Rust%20%7C%20ARK%20%7C%20CS2&descSize=11&descColor=7dd3fc&descAlignY=65" width="160" />
-<br/>
-<img src="https://img.shields.io/badge/%E2%82%B9249%2Fmo-00a8ff?style=flat-square&labelColor=0a0a0a" />
-</td>
-<td align="center" width="180">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a2e&height=120&text=Bot%20Hosting&fontSize=14&fontColor=5865F2&fontAlignY=42&desc=Node.js%20%7C%20Python%20%7C%20Java&descSize=11&descColor=7dd3fc&descAlignY=65" width="160" />
-<br/>
-<img src="https://img.shields.io/badge/%E2%82%B949%2Fmo-00a8ff?style=flat-square&labelColor=0a0a0a" />
-</td>
-<td align="center" width="180">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a2e&height=120&text=Web%20Hosting&fontSize=14&fontColor=ffffff&fontAlignY=42&desc=SSD%20%7C%20SSL%20%7C%20Backups&descSize=11&descColor=7dd3fc&descAlignY=65" width="160" />
-<br/>
-<img src="https://img.shields.io/badge/%E2%82%B999%2Fmo-00a8ff?style=flat-square&labelColor=0a0a0a" />
-</td>
-</tr>
-<tr>
-<td align="center" width="180">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a2e&height=120&text=VPS%20Hosting&fontSize=14&fontColor=FCC624&fontAlignY=42&desc=Full%20Root%20Access&descSize=11&descColor=7dd3fc&descAlignY=65" width="160" />
-<br/>
-<img src="https://img.shields.io/badge/%E2%82%B9299%2Fmo-00a8ff?style=flat-square&labelColor=0a0a0a" />
-</td>
-<td align="center" width="180">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a2e&height=120&text=Domains&fontSize=16&fontColor=F38020&fontAlignY=42&desc=.in%20.com%20.net%20.gg%20.cloud&descSize=11&descColor=7dd3fc&descAlignY=65" width="160" />
-<br/>
-<img src="https://img.shields.io/badge/%E2%82%B9500%2Fyr-00a8ff?style=flat-square&labelColor=0a0a0a" />
-</td>
-<td align="center" width="180">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a2e&height=120&text=Databases&fontSize=15&fontColor=336791&fontAlignY=42&desc=MySQL%20%7C%20PostgreSQL&descSize=11&descColor=7dd3fc&descAlignY=65" width="160" />
-<br/>
-<img src="https://img.shields.io/badge/Custom-00a8ff?style=flat-square&labelColor=0a0a0a" />
-</td>
-<td align="center" width="180">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a2e&height=120&text=Dev%20Services&fontSize=14&fontColor=007ACC&fontAlignY=42&desc=Bots%20%7C%20Plugins%20%7C%20GFX&descSize=11&descColor=7dd3fc&descAlignY=65" width="160" />
-<br/>
-<img src="https://img.shields.io/badge/%E2%82%B9166%2Fproject-00a8ff?style=flat-square&labelColor=0a0a0a" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:001220&height=3&width=100%" />
-
-<br/>
-
 ## &nbsp;&nbsp;Infrastructure
 
 <br/>
@@ -247,30 +186,18 @@
 <img src="https://notgamerpratham.com/profile.png" width="100" height="100" style="border-radius:50%" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Pratham%20AB-00a8ff?style=for-the-badge&labelColor=0a0a0a&label=Founder" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Product-0d1117?style=flat-square&logo=productboard&logoColor=00a8ff" />
-<img src="https://img.shields.io/badge/Infrastructure-0d1117?style=flat-square&logo=linux&logoColor=FCC624" />
-<img src="https://img.shields.io/badge/Development-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
 </td>
 
 <td align="center" width="260">
 <img src="https://svjnoklzoifrktnjcygb.supabase.co/storage/v1/object/public/artifacts/logos/nishalreddy.png" width="100" height="100" style="border-radius:50%" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Nishal%20Reddy-0097e6?style=for-the-badge&labelColor=0a0a0a&label=CEO" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Business-0d1117?style=flat-square&logo=briefcase&logoColor=0097e6" />
-<img src="https://img.shields.io/badge/Pricing-0d1117?style=flat-square&logo=stripe&logoColor=635BFF" />
-<img src="https://img.shields.io/badge/Partnerships-0d1117?style=flat-square&logo=handshake&logoColor=0097e6" />
 </td>
 
 <td align="center" width="260">
 <img src="https://svjnoklzoifrktnjcygb.supabase.co/storage/v1/object/public/artifacts/logos/1770529516803_shaan_logo.png" width="100" height="100" style="border-radius:50%" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Shaan%20Sandhu-0086d3?style=for-the-badge&labelColor=0a0a0a&label=Manager" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Operations-0d1117?style=flat-square&logo=notion&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Support-0d1117?style=flat-square&logo=discord&logoColor=5865F2" />
-<img src="https://img.shields.io/badge/Staff-0d1117?style=flat-square&logo=slack&logoColor=4A154B" />
 </td>
 
 </tr>
