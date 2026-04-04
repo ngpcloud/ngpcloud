@@ -191,13 +191,13 @@
 <td align="center" width="260">
 <img src="https://svjnoklzoifrktnjcygb.supabase.co/storage/v1/object/public/artifacts/logos/nishalreddy.png" width="100" height="100" style="border-radius:50%" />
 <br/><br/>
-<img src="https://img.shields.io/badge/Nishal%20Reddy-0097e6?style=for-the-badge&labelColor=0a0a0a&label=CEO" />
+<img src="https://img.shields.io/badge/Nishal%20Reddy-0097e6?style=for-the-badge&labelColor=0a0a0a&label=Co-Founder" />
 </td>
 
 <td align="center" width="260">
 <img src="https://svjnoklzoifrktnjcygb.supabase.co/storage/v1/object/public/artifacts/logos/1770529516803_shaan_logo.png" width="100" height="100" style="border-radius:50%" />
 <br/><br/>
-<img src="https://img.shields.io/badge/Shaan%20Sandhu-0086d3?style=for-the-badge&labelColor=0a0a0a&label=Manager" />
+<img src="https://img.shields.io/badge/Shaan%20Sandhu-0086d3?style=for-the-badge&labelColor=0a0a0a&label=CEO" />
 </td>
 
 </tr>
