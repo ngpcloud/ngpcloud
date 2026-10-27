@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=Join+Community)](https://discord.gg/UJNywRUH6K)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=Join+Community)](https://discord.gg/Umj46rtSp8)
 [![Website](https://img.shields.io/badge/ngpcloud.in-00a8ff?style=for-the-badge&logo=googlechrome&logoColor=white&label=Website)](https://ngpcloud.in)
 [![Instagram](https://img.shields.io/badge/%40officialngpcloud-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Instagram)](https://instagram.com/officialngpcloud)
 [![YouTube](https://img.shields.io/badge/%40NGPCloud-FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube)](https://youtube.com/@NGPCloud)
@@ -31,12 +31,26 @@
 
 ## &nbsp;&nbsp;About
 
-&nbsp;&nbsp;NGP Cloud is a **hosting company** founded in **2026**, purpose-built for Asia's gaming and developer communities.
-&nbsp;&nbsp;We deliver high-performance infrastructure with Asia-optimized nodes, enterprise-grade DDoS protection,
-&nbsp;&nbsp;and 24/7 personal support at prices the Asian market can actually afford.
+&nbsp;&nbsp;NGP Cloud is a **hosting company** founded in **2026** in Mumbai, India, purpose-built for Asia's gaming
+&nbsp;&nbsp;and developer communities - with additional VPS availability in Frankfurt, Germany for customers who need
+&nbsp;&nbsp;a European footprint. We deliver high-performance infrastructure with Asia-optimized nodes, enterprise-grade
+&nbsp;&nbsp;DDoS protection, and 24/7 personal support at prices the Asian market can actually afford.
 
-&nbsp;&nbsp;Our in-house team handles everything from **Discord bots** and **Minecraft plugins** to full **websites**
-&nbsp;&nbsp;and **GFX design** making NGP Cloud the only provider in Asia where you can host and build under one roof.
+&nbsp;&nbsp;Every core account action - listing servers, live status, power control, backups, billing, and support
+&nbsp;&nbsp;tickets - is available through three equivalent, account-scoped surfaces, so you can manage NGP Cloud
+&nbsp;&nbsp;however fits your workflow:
+
+<br/>
+
+<div align="center">
+
+[![API](https://img.shields.io/badge/REST%20API-Docs-00a8ff?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0a0a0a)](https://ngpcloud.in/docs/api)
+&nbsp;
+[![Discord Bot](https://img.shields.io/badge/Discord%20Bot-Commands-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a)](https://ngpcloud.in/docs/bot)
+&nbsp;
+[![MCP](https://img.shields.io/badge/MCP%20Server-Docs-00a8ff?style=for-the-badge&labelColor=0a0a0a)](https://ngpcloud.in/docs/mcp)
+
+</div>
 
 <br/>
 
@@ -82,88 +96,39 @@
 
 <br/>
 
-## &nbsp;&nbsp;Tech Stack
+## &nbsp;&nbsp;Services
 
 <br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=0a0a0a" />
+&nbsp;
+<img src="https://img.shields.io/badge/GTA%205%20%2F%20FiveM-F99A1C?style=for-the-badge&labelColor=0a0a0a" />
+&nbsp;
+<img src="https://img.shields.io/badge/CS%3AGO-DE9B35?style=for-the-badge&labelColor=0a0a0a" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&labelColor=0a0a0a" />
+&nbsp;
+<img src="https://img.shields.io/badge/ARK-4E9A51?style=for-the-badge&labelColor=0a0a0a" />
+&nbsp;
+<img src="https://img.shields.io/badge/Hytale-6C5CE7?style=for-the-badge&labelColor=0a0a0a" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/VPS-00a8ff?style=for-the-badge&logo=serverfault&logoColor=white&labelColor=0a0a0a" />
+&nbsp;
+<img src="https://img.shields.io/badge/Web%20Hosting-00a8ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a" />
+&nbsp;
+<img src="https://img.shields.io/badge/Discord%20Bot%20Hosting-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:001220&height=3&width=100%" />
-
-<br/>
-
-## &nbsp;&nbsp;Payment Methods
-
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="220">
-
-**India**
-
-<img src="https://img.shields.io/badge/UPI-2563EB?style=flat-square&logo=googlepay&logoColor=white" />
-<img src="https://img.shields.io/badge/GPay-4285F4?style=flat-square&logo=googlepay&logoColor=white" />
-<img src="https://img.shields.io/badge/PhonePe-5f259f?style=flat-square&logo=phonepe&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/PayTM-002970?style=flat-square&logo=paytm&logoColor=white" />
-<img src="https://img.shields.io/badge/FamPay-FFAD00?style=flat-square&logoColor=black" />
-<img src="https://img.shields.io/badge/Net%20Banking-1a1a2e?style=flat-square&logoColor=white" />
-
-</td>
-<td align="center" width="220">
-
-**Bangladesh & Pakistan**
-
-<img src="https://img.shields.io/badge/Bkash-E2136E?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Nagad-F05A28?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Easypaisa-00A651?style=flat-square&logoColor=white" />
-
-</td>
-<td align="center" width="220">
-
-**Global**
-
-<img src="https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white" />
-<img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/USDT-26A17B?style=flat-square&logo=tether&logoColor=white" />
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Database%20Hosting-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0a0a0a" />
+&nbsp;
+<img src="https://img.shields.io/badge/Domain%20Registration-00a8ff?style=for-the-badge&labelColor=0a0a0a" />
 
 </div>
 
@@ -189,16 +154,10 @@
 </td>
 
 <td align="center" width="260">
-<img src="https://svjnoklzoifrktnjcygb.supabase.co/storage/v1/object/public/artifacts/logos/nishalreddy.png" width="100" height="100" style="border-radius:50%" />
+<img src="https://notgamerpratham.com/images/nishal_logo.png" width="100" height="100" style="border-radius:50%" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Nishal%20Reddy-0097e6?style=for-the-badge&labelColor=0a0a0a&label=Co-Founder" />
 </td>
-
-<!-- <td align="center" width="260">
-<img src="https://svjnoklzoifrktnjcygb.supabase.co/storage/v1/object/public/artifacts/logos/1770529516803_shaan_logo.png" width="100" height="100" style="border-radius:50%" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Shaan%20Sandhu-0086d3?style=for-the-badge&labelColor=0a0a0a&label=CEO" />
-</td> -->
 
 </tr>
 </table>
@@ -217,7 +176,7 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-Primary%20Support%20Channel-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a)](https://discord.gg/UJNywRUH6K)
+[![Discord](https://img.shields.io/badge/Discord-Primary%20Support%20Channel-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a)](https://discord.gg/Umj46rtSp8)
 [![Website](https://img.shields.io/badge/Website-ngpcloud.in-00a8ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a)](https://ngpcloud.in)
 
 <br/>
